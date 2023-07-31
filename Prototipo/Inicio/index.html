@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/assets/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+</head>
+<body>
+    
+    <!-- Header -->
+    <header>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#"><img src="./assets/logoMinaClavero.png" alt="Logo Mina Clavero" style="height: 55px;"></a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Inicio</a>
+                            </li>
+                            <li class="nav-item">
+                            <a class="nav-link" href="#">Historia</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Información
+                                </a>
+                            <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">Información Turística</a></li>
+                                    <li><a class="dropdown-item" href="#">Hospedaje y Alojamiento</a></li>
+                                    <li><a class="dropdown-item" href="#">Transporte y cómo Moverse</a></li>
+                                    <li><a class="dropdown-item" href="#">Eventos y Actividades</a></li>
+                                    <li><a class="dropdown-item" href="#">Restaurantes y Gastronomía</a></li>
+                                    <li><a class="dropdown-item" href="#">Mapas y Guías</a></li>
+                                    <li><a class="dropdown-item" href="#">Idioma y Cultura Local</a></li>
+                                    <li><a class="dropdown-item" href="#">Seguridad y Emergencias</a></li>
+                            </ul>
+                            </li>
+                            <li class="nav-item">
+                            <a class="nav-link disabled" aria-disabled="true">Dashboard</a>
+                            </li>
+                    </ul>
+                            <form class="d-flex ms-auto">
+                                <button class="btn btn-outline-success me-2" type="button">Acceder</button>
+                                <button class="btn btn-sm btn-outline-secondary" type="button">Cerrar Sesión</button>
+                            </form>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!-- Fin Header -->
+
+    <!-- Main -->
+    <main>
+        <!-- Carousel de la pagina de Inicio -->
+        <div id="hero-carousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+            <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+
+            <div class="carousel-inner">
+                <div class="carousel-item active c-item">
+                    <img src="./assets/balneario-abuela-teresa.jpg" class="d-block w-100 c-img" alt="Slide 1">
+                    <div class="carousel-caption top-0 mt-4">
+                        <p class="mt-5 fs-3 text-uppercase">Discover the hidden world</p>
+                        <h1 class="display-1 fw-bolder text-capitalize">The Aurora Tours</h1>
+                        <button class="btn btn-primary px-4 py-2 fs-5 mt-5">Book a tour</button>
+                    </div>
+                </div>
+                <div class="carousel-item c-item">
+                    <img src="./assets/img-20190126-wa0002-largejpg.jpg" class="d-block w-100 c-img" alt="Slide 2">
+                    <div class="carousel-caption top-0 mt-4">
+                    <p class="text-uppercase fs-3 mt-5">The season has arrived</p>
+                    <p class="display-1 fw-bolder text-capitalize">3 available tours</p>
+                    <button class="btn btn-primary px-4 py-2 fs-8 mt-5" data-bs-toggle="modal"
+                        data-bs-target="#booking-modal">Book a tour</button>
+                    </div>
+                </div>
+                <div class="carousel-item c-item">
+                    <img src="./assets/mas-cascadas.jpg" class="d-block w-100 c-img" alt="Slide 3">
+                    <div class="carousel-caption top-0 mt-4">
+                    <p class="text-uppercase fs-3 mt-5">Destination activities</p>
+                    <p class="display-1 fw-bolder text-capitalize">Go glacier hiking</p>
+                    <button class="btn btn-primary px-4 py-2 fs-5 mt-5" data-bs-toggle="modal"
+                        data-bs-target="#booking-modal">Book a tour</button>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#hero-carousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#hero-carousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+        <!-- Fin del Carousel de la pagina de Inicio -->
+
+        <!-- Historia Mina Clavero de la pagina de Inicio -->
+        <div class="history-text"> 
+            <figure class="text-center">
+                <figcaption class="blockquote-footer">
+                    Entre montañas y ríos, tu belleza se despliega, Mina Clavero, joya serena de la naturaleza.
+                </figcaption>
+                    <div class="text-important">
+                        <p>
+                            Las raíces de Mina Clavero se remontan a la época precolombina, cuando las culturas comechingonas y sanavironas poblaban esta región montañosa.
+                            <br>
+                            Estos antiguos habitantes dejaron su legado cultural impreso en el paisaje y las tradiciones, que aún se pueden apreciar en la actualidad.
+                            Aunque no hallaron los tesoros esperados, descubrieron en cambio la inigualable riqueza de la tierra y la naturaleza que rodea esta encantadora localidad.
+                            <br>
+                            Esto marcó un hito en el desarrollo del turismo en la zona, atrayendo a viajeros ávidos de explorar estos paisajes montañosos y deleitarse con la tranquilidad y serenidad que ofrecía.
+                            Las postales de montañas verdes, ríos cristalinos y cascadas cristalinas pronto comenzaron a circular, atrayendo la atención de personas de todas partes, que buscaban refugiarse del bullicio de las ciudades y encontrar una conexión profunda con la naturaleza.
+                            <br>
+                            El atractivo de Mina Clavero se consolidó aún más en el siglo XX, cuando la construcción de infraestructuras turísticas, como hoteles, balnearios y centros recreativos, dio lugar a un floreciente sector turístico en la región. Sin embargo, a pesar de su crecimiento y modernización, Mina Clavero ha sabido preservar su esencia, manteniendo su encanto auténtico y su conexión con la historia y las tradiciones locales.
+                            <br>
+                            Las actividades al aire libre abundan, ofreciendo opciones para los amantes del senderismo, deportes acuáticos y la contemplación de la naturaleza en su estado más puro.
+                            Además, festivales culturales, como el Festival Nacional del Folklore, dan vida a las tradiciones locales y dan muestra de la riqueza cultural de la zona.
+                            <br>
+                            Mina Clavero es mucho más que un destino turístico, es un rincón mágico en las Sierras de Córdoba que combina su rica historia con la belleza cautivante de su entorno natural. Desde sus inicios precolombinos hasta su auge como un destino turístico renombrado, Mina Clavero ha dejado una huella en la historia argentina y en los corazones de quienes la visitan. Un lugar donde la historia y la naturaleza se fusionan para crear una experiencia única y fascinante.
+                        </p>
+                    </div>
+            </figure>
+        </div>
+        <!-- Fin Historia Mina Clavero de la pagina de Inicio -->
+
+        <!-- Cards Informativas -->
+        <section id="gallery">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 mb-4">
+                        <div class="card">
+                        <img src="./assets/info turistica.jpg" alt="" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">Información Turística</h5>
+                                <p class="card-text">Sus principales atractivos incluyen hermosas playas de arena dorada a lo largo del río, ideales para disfrutar del sol y las aguas cristalinas. Además, el lugar es conocido por sus cascadas, senderos de trekking y la posibilidad de practicar actividades de aventura como el rappel y el tirolesa. La arquitectura de estilo serrano y la calidez de su gente completan la experiencia, haciendo de Mina Clavero un destino perfecto para relajarse y conectarse con la naturaleza.</p>
+                            <a href="" class="btn btn-outline-success btn-sm">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 mb-4">
+                        <div class="card">
+                        <img src="./assets/hotel.jpg" alt="" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">Hospedaje y Alojamiento</h5>
+                                <p class="card-text">Desde cómodos hoteles y acogedores hostales hasta pintorescas cabañas y campings, los viajeros encontrarán alternativas para todos los gustos y presupuestos. Disfruta de la belleza natural de la zona y relájate en tu lugar de alojamiento después de explorar sus encantadores paisajes, ríos y montañas.</p>
+                            <a href="" class="btn btn-outline-success btn-sm">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 mb-4">
+                        <div class="card">
+                        <img src="./assets/transporte.jpg" alt="" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">Transporte y Cómo Moverse</h5>
+                                <p class="card-text">El transporte en esta ciudad se basa principalmente en servicios de buses y taxis locales que permiten moverse por el área urbana y sus alrededores.
+                                                        ¿Cómo Moverse en Mina Clavero? Autobuses locales, Mina Clavero cuenta con una red de transporte público de autobuses que conecta diferentes puntos dentro de la ciudad y sus cercanías.</p>
+                            <a href="" class="btn btn-outline-success btn-sm">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 mb-4">
+                        <div class="card">
+                        <img src="./assets/Eventos.jpg" alt="" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">Eventos y Activades</h5>
+                                <p class="card-text">Mina Clavero, un hermoso destino turístico en Argentina, ofrece una amplia variedad de eventos y actividades para disfrutar de su encanto natural y cultural.
+                                                        Además, Mina Clavero ofrece oportunidades para practicar deportes acuáticos, como kayak y rafting, en el río cristalino.
+                                                            Toda esta diversidad hace que Mina Clavero sea un lugar especial para crear recuerdos inolvidables.</p>
+                            <a href="" class="btn btn-outline-success btn-sm">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 mb-4">
+                        <div class="card">
+                        <img src="./assets/restaurante.jpg" alt="" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">Restaurantes y gastronomía</h5>
+                                <p class="card-text">Los restaurantes en Mina Clavero ofrecen una amplia variedad de platos típicos, como las famosas empanadas cordobesas, asados de carne de alta calidad, truchas de río frescas y sabrosos chivitos a la llama.
+                                                        Muchos de estos restaurantes están ubicados en escenarios naturales encantadores, ofreciendo vistas panorámicas de las montañas y el río Mina Clavero.</p>
+                            <a href="" class="btn btn-outline-success btn-sm">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="col-lg-4 mb-4">
+                        <div class="card">
+                        <img src="./assets/mapa.jpg" alt="" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">Mapas y Guías</h5>
+                                <p class="card-text">Mina Clavero, un hermoso destino turístico en Argentina, cuenta con diversos mapas y guías que te ayudarán a explorar su encanto natural.
+                                                        Los mapas detallados te conducirán por senderos montañosos, ríos cristalinos y cascadas impresionantes.
+                                                            ¡Sumérgete en la belleza de Mina Clavero con la ayuda de sus mapas y guías!</p>
+                            <a href="" class="btn btn-outline-success btn-sm">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 mb-4">
+                        <div class="card">
+                        <img src="./assets/banderas.jpeg" alt="" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">Idioma y Cultura Local</h5>
+                                <p class="card-text">La lengua predominante en la región es el español, pero es común encontrar una variante local del idioma con expresiones y modismos particulares.
+                                                    Los habitantes de Mina Clavero son conocidos por su hospitalidad y apego a las costumbres ancestrales, lo que permite a los visitantes sumergirse en una experiencia auténtica y enriquecedora.</p>
+                            <a href="" class="btn btn-outline-success btn-sm">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 mb-4">
+                        <div class="card">
+                        <img src="./assets/emergencias.jpg" alt="" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">Seguridad y Emergencias</h5>
+                                <p class="card-text">Seguridad y Emergencias en Mina Clavero se refiere a las medidas y protocolos implementados para garantizar la protección de personas, infraestructuras y el medio ambiente en esta localidad situada en Argentina, que es conocida por sus actividades mineras.
+                                La combinación de medidas de seguridad y protocolos de emergencia es esencial para mantener un entorno seguro y preparado ante cualquier eventualidad en la actividad minera de Mina Clavero.</p>
+                            <a href="" class="btn btn-outline-success btn-sm">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Fin Cards Informativas -->
+    </main>
+    <!-- Fin Main -->
+
+    <!-- Footer -->
+    <div class="footer-basic">
+        <footer>
+            <div class="social"><a href="#"><i class="icon ion-social-instagram"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-facebook"></i></a></div>
+            <ul class="list-inline">
+                <li class="list-inline-item"><a href="#">Inicio</a></li>
+                <li class="list-inline-item"><a href="#">Historia</a></li>
+                <li class="list-inline-item"><a href="#">About</a></li>
+                <li class="list-inline-item"><a href="#">Terms</a></li>
+                <li class="list-inline-item"><a href="#">Privacy Policy</a></li>
+            </ul>
+            <p class="copyright">Mina Clavero © 2023</p>
+        </footer>
+    </div>
+    <!-- Fin Footer -->
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+</body>
+</html>
