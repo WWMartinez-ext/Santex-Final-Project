@@ -1,0 +1,140 @@
+<mxfile host="Electron" modified="2023-07-30T04:52:02.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="MLMR-AATc5F6qo9CB45I" version="21.6.5" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="3217" dy="1673" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416.8000000000002" y="320.0409090909093" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="fuOmDN27tWIe9emQrgzH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="fuOmDN27tWIe9emQrgzH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;i&gt;www.minaclavero.gob.ar/inicio&lt;br&gt;&lt;/i&gt;&lt;/font&gt;Presentación sobre la localidad de Mina Clavero con hermosas fotos de fondo. Contiene información histórica y relevante sobre la localidad, si se desplaza hacia abajo se presentan zonas y servicios destacados mediante cartas, como balnearios, restaurantes, eventos, etc." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="313.5" y="30" width="206.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="fuOmDN27tWIe9emQrgzH-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416.75" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuOmDN27tWIe9emQrgzH-3" target="fuOmDN27tWIe9emQrgzH-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-3" value="&lt;b&gt;Hospedaje&lt;/b&gt;&lt;br&gt;&lt;i&gt;www.minaclavero.gob.ar/inicio/hospedaje&lt;/i&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="827" y="96" width="253" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuOmDN27tWIe9emQrgzH-8" target="fuOmDN27tWIe9emQrgzH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-8" value="En la seccion Restaurantes, va a encontrar informacion sobre los restaurantes de la zona de mina clavero, tambien desplazando hacia abajo va a encontrar las cards donde hay informacion especifica sobre cada restaurante." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-232" y="340" width="201" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-11" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="136" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-12" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="136" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-13" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuOmDN27tWIe9emQrgzH-14" target="fuOmDN27tWIe9emQrgzH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-14" value="En la seccion Balnearios, va a encontrar informacion sobre los Balnearios de la zona de mina clavero, tambien desplazando hacia abajo va a encontrar las cards donde hay informacion especifica sobre cada balnearios, ej: como llegar." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="316.25" y="552" width="201" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuOmDN27tWIe9emQrgzH-15" target="fuOmDN27tWIe9emQrgzH-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-15" value="En la seccion Hospedaje, va a encontrar informacion sobre los Hospedajes (Hoteles, cabañas, etc) de la zona de mina clavero, tambien desplazando hacia abajo va a encontrar las cards donde hay informacion especifica de como llegar, etc." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="853" y="340" width="201" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-18" value="&lt;b&gt;Balnearios&lt;/b&gt;&lt;br&gt;&lt;i&gt;www.minaclavero.gob.ar/inicio/balnearios&lt;/i&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290.25" y="320" width="253" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuOmDN27tWIe9emQrgzH-19" target="fuOmDN27tWIe9emQrgzH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-19" value="&lt;b&gt;Restaurantes&lt;/b&gt;&lt;br&gt;&lt;i&gt;www.minaclavero.gob.ar/inicio/restaurantes&lt;/i&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-258" y="96" width="253" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuOmDN27tWIe9emQrgzH-23" target="fuOmDN27tWIe9emQrgzH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-23" value="&lt;b&gt;¿Desea realizar un formulario de satisfacion?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-464" y="568" width="253" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-25" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="770" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-27" value="Para poder realizar el formulario de satisfacion primero debe registrarse como usuario/encuestador/admin,&lt;br&gt;una vez registrado va a poder realizar la encuesta." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-438" y="864" width="201" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuOmDN27tWIe9emQrgzH-29" target="fuOmDN27tWIe9emQrgzH-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-29" value="&lt;b&gt;¿Desea realizar un formulario de satisfacion?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290.25" y="832" width="253" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuOmDN27tWIe9emQrgzH-30" target="fuOmDN27tWIe9emQrgzH-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-30" value="&lt;b&gt;¿Desea realizar un formulario de satisfacion?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1054" y="568" width="253" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-33" value="Para poder realizar el formulario de satisfacion primero debe registrarse como usuario/encuestador/admin,&lt;br&gt;una vez registrado va a poder realizar la encuesta." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1080" y="864" width="201" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-35" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1176" y="770" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuOmDN27tWIe9emQrgzH-37" target="fuOmDN27tWIe9emQrgzH-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-37" value="Para poder realizar el formulario de satisfacion primero debe registrarse como usuario/encuestador/admin,&lt;br&gt;una vez registrado va a poder realizar la encuesta." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="316.25" y="1112" width="201" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-39" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="413" y="1040" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuOmDN27tWIe9emQrgzH-40" target="fuOmDN27tWIe9emQrgzH-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuOmDN27tWIe9emQrgzH-40" target="fuOmDN27tWIe9emQrgzH-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fuOmDN27tWIe9emQrgzH-40" target="fuOmDN27tWIe9emQrgzH-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-40" value="&lt;b&gt;¿Esta usted autenticado (user/encuestadir/admin)?&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290.25" y="1424" width="253" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-42" value="Si usted esta autenticado como Encuestador: Va a tener acceso CRUD a las preguntas del formulario." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="316.25" y="1776" width="201" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-45" value="Si usted esta autenticado como Administrador: Va a tener acceso CRUD a toda la App." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="616" y="1784" width="201" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-46" value="Si usted esta autenticado como usuario: Va a poder realizar la encuesta y enviarla para que desde el Back-End recopilemos esa informacion, sea enviada y evaluada para mostrarla en el dashboard." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="8" y="1784" width="201" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-49" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="413" y="1656" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-50" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="1656" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fuOmDN27tWIe9emQrgzH-51" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="1656" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
